@@ -1,0 +1,5 @@
+Node Version 16/18 Support Nuxt js 2 : node -v 
+Current directory : dir
+Copy / Download Github : npm i
+Development : npm run dev
+
